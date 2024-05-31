@@ -6,7 +6,7 @@ Sistem ini dirancang untuk memfasilitasi pelaporan dan penanganan pengaduan keru
 
 Berikut adalah tampilan dari proyek ini:
 
-![Tampilan Proyek](screenshot/view-app.png)
+![Tampilan Proyek](screenshoot/view-app.png)
 
 ## Fitur
 
