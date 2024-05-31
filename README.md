@@ -2,6 +2,12 @@
 
 Sistem ini dirancang untuk memfasilitasi pelaporan dan penanganan pengaduan kerusakan fasilitas kampus oleh mahasiswa, serta pengelolaan tanggapan dan pengguna oleh petugas dan admin.
 
+## Tampilan Proyek
+
+Berikut adalah tampilan dari proyek ini:
+
+![Tampilan Proyek](screenshot/view-app.png)
+
 ## Fitur
 
 ### Mahasiswa
